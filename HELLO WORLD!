@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+void niyan0213();
+int main()
+{
+	niyan0213();
+	return 0;
+}
+void niyan0213()
+{
+	cout << "Hello Horld!"<<endl;
+}
